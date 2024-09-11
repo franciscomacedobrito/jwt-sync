@@ -1,0 +1,1 @@
+window.postMessage({type : "FROM_PAGE", JWT : JSON.stringify(window.JWT)}, "*");

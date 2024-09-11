@@ -20,3 +20,5 @@ The plugin is available as a pop-up or a tab in dev-tools
 1. Have at least one host you want to copy the JWT from opened
 2. Have at least one localhost tab you want to copy the JWT to
 3. Choose the desired tab and desired host on the UI
+
+![img.png](img.png)
